@@ -137,6 +137,8 @@ chave_protecao = False  # Chave_protecao serve para o caso de troca o banco de d
 
 # -------------------------------------------------------
 
+# Programa ----------------------------------------------
+
 while x == 0:
   
     print('''\nDigite o número dentre umas das opções a baixo:
