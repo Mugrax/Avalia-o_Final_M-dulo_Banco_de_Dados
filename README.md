@@ -21,22 +21,27 @@ aceitos outros bancos de dados.
   usuário.
 
   c) Inserir documentos.
+  
     i) Deverá ser pedido ao usuário, qual a coleção onde deve
     ser inserido.
+    
     ii) pedir quais os pares de chave-valor a serem inseridos
     em cada documento.
 
   d) Buscar documentos.
+  
     i) O usuário deve escolher se busca por todos os
     documentos, ou se quer aplicar algum filtro (critério de
     seleção), e nesse caso ele deve fornecer a chave e o
     valor correspondente do filtro. Obs: apenas são
     permitidos testes de igualdade e apenas um filtro para
     busca.
+    
     ii) Forneça a opção de limitar a busca a uma quantidade
     informada de registros.
 
   e) Deletar documentos.
+  
     i) O Usuário deve fornecer qual as chaves utilizadas na
     condição da remoção e qual o valor correspondente
     para encontrar o(s) registros a serem deletados. Obs:
